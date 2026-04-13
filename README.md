@@ -36,7 +36,7 @@ I study minds — from honeybees to humans.
 ---
 
 ## 🌐 Live Website
-👉 https://brainsecrets.hub.github.io
+👉 https://nishantarya343.hub.github.io
 
 ---
 
