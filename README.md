@@ -36,7 +36,7 @@ I study minds — from honeybees to humans.
 ---
 
 ## 🌐 Live Website
-👉 https://nishantarya343.hub.github.io
+👉 https://nishant-nexus.github.io
 
 ---
 
